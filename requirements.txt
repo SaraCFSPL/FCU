@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+selenium
+webdriver-manager
+bs4
+pydantic
+langchain
+langchain-openai
+openai
+pillow
+tenacity
+pytesseract
+python-dotenv

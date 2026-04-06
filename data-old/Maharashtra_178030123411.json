@@ -1,0 +1,21 @@
+[
+    {
+        "ग्राहक क्रमांक.": "178030123411",
+        "BU क्रमांक": "4723",
+        "Unknown": "WALCHANDNAGAR SUB-DN",
+        "पावती महिना": "Apr 2025",
+        "पावती प्रमाण": "95",
+        "शेष रक्कम": "820.00",
+        "देय दिनाक": "02 May 2025",
+        "View Bill": {
+            "src": "images/ieicon.png",
+            "onclick": "popUpPrintBillHTML(this);",
+            "title": "View Bill"
+        },
+        "View Photo": {
+            "src": "images/photo-camera.png",
+            "onclick": "GetMeterPhoto(this);",
+            "title": "View Meter Photo"
+        }
+    }
+]
